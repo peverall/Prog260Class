@@ -1,0 +1,41 @@
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.exe
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.deps.json
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.runtimeconfig.json
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.runtimeconfig.dev.json
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.dll
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.pdb
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.csprojAssemblyReference.cache
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.AssemblyInfo.cs
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.dll
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.pdb
+C:\Users\denni\OneDrive\2020.09 PROG 260-thunderous\Programs\008 - Binary Search Tree\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.genruntimeconfig.cache
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.exe
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.deps.json
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.runtimeconfig.json
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.runtimeconfig.dev.json
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.dll
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.pdb
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.AssemblyInfo.cs
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.dll
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.pdb
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.genruntimeconfig.cache
+C:\Users\Ryzen\Downloads\BSTRecursiveCore\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.csproj.AssemblyReference.cache
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.exe
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.deps.json
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.runtimeconfig.json
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.runtimeconfig.dev.json
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.dll
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\bin\Debug\netcoreapp3.1\BSTRecursiveCore.pdb
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.AssemblyInfoInputs.cache
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.AssemblyInfo.cs
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.csproj.CoreCompileInputs.cache
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.dll
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.pdb
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.genruntimeconfig.cache
+C:\Users\chitalu\Documents\00 - SENSEI - 2022\BSTRecursiveCore\BSTRecursiveCore\obj\Debug\netcoreapp3.1\BSTRecursiveCore.csproj.AssemblyReference.cache
